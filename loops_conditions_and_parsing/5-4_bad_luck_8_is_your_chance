@@ -9,7 +9,7 @@ do
 if [ $count -eq 3 ]
 then
 echo "bad luck"
-elif [ $count -e	 7 ]
+if [ $count -e	 7 ]
 then
 echo "good luck"
 else

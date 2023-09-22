@@ -4,8 +4,6 @@
 # username
 # user id
 # Home directory path for the user
-# Requirements:
-        # You must use the while loop (for and until are forbidden)
 
 IFS=':'
 
